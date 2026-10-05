@@ -13,8 +13,8 @@ export const profile = {
     location: "Gujarat, India",
     github: "https://github.com/harshil7776",
     githubHandle: "harshil7776",
-    linkedin: "", // TODO: paste your full profile URL, e.g. https://www.linkedin.com/in/your-id
-    resume: "/resume.pdf", // put resume.pdf inside /public
+    linkedin: "www.linkedin.com/in/harshilthakkar7776", // TODO: paste your full profile URL, e.g. https://www.linkedin.com/in/your-id
+    resume: "/resume.docx", // put resume.pdf inside /public
   };
   
   // [label, section id]
