@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowDown, Download, Mail } from "lucide-react";
-import { GithubIcon, LinkedinIcon } from "./icons";
+import { GithubIcon, LinkedinIcon } from "./Icons";
 import { profile } from "../data/portfolio";
 
 export default function Hero() {
