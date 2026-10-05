@@ -1,5 +1,5 @@
 import { Mail, MapPin, Phone, ArrowUpRight } from "lucide-react";
-import { GithubIcon, LinkedinIcon } from "./icons";
+import { GithubIcon, LinkedinIcon } from "./Icons";
 import { profile } from "../data/portfolio";
 
 const contactItems = [
